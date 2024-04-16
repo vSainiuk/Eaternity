@@ -7,21 +7,21 @@ export const Menu = [
   {
     id: 2,
     name: 'Rice bowls',
-    link: '/#'
+    link: '#'
   },
   {
     id: 3,
     name: 'Salad bowls',
-    link: '/#'
+    link: '#'
   },
   {
     id: 4,
     name: 'Beverages',
-    link: '/#'
+    link: '#'
   },
   {
     id: 5,
     name: 'Kids',
-    link: '/#'
+    link: '#'
   }
 ];

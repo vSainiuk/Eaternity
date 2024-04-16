@@ -4,19 +4,19 @@ import Logo from '../../assets/logo.png';
 const FooterLinks = [
   {
     title: 'Home',
-    link: '/#',
+    link: '#',
   },
   {
     title: 'About',
-    link: '/about',
+    link: '#',
   },
   {
     title: 'Contacts',
-    link: '/contacts',
+    link: '#',
   },
   {
     title: 'Blog',
-    link: '/blog',
+    link: '#',
   },
 ];
 
